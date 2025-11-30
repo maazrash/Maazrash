@@ -3,8 +3,10 @@
 a Persian software developer who spent few years learning making apps or games for pc and android with python language and porting apps or games on android 
 
 ##Speak with me 👇🏻
-Gmail : rashedimaaz@gmail.com 
-telegram : @Maazrashedi
+
+-Gmail : rashedimaaz@gmail.com 
+
+-telegram : @Maazrashedi
 <!--
 **maazrash/Maazrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
